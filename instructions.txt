@@ -2,7 +2,4 @@ Instructions to deploying this site to the server
 -----------------------------------
 To be added...
 
-Installation on IIS 
--------------------
 
-Content goes here
