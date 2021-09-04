@@ -1,3 +1,7 @@
 Instructions to deploying this site to the server
 -----------------------------------
 To be added...
+
+Troubleshooting
+---------------
+To be added...
